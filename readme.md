@@ -3,3 +3,4 @@
 - Guess the number
 - Rock, paper, scissors
 - Wordle
+- Rearrange the letters
