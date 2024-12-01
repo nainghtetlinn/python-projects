@@ -4,3 +4,4 @@
 - Rock, paper, scissors
 - Wordle
 - Rearrange the letters
+- Tic tac toe
