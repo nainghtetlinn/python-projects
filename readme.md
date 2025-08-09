@@ -5,3 +5,4 @@
 - Wordle
 - Rearrange the letters
 - Tic tac toe
+- Files organizer
