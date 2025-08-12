@@ -1,7 +1,7 @@
 cipher_text = "abcdefghijklmnopqrstuvwxyz"
 key = 12
 
-plain_text = "attackistoday"
+plain_text = input("Enter text to encrypt: ")
 
 encrypted_text = ""
 decrypted_text = ""
