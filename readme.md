@@ -6,3 +6,4 @@
 - Rearrange the letters
 - Tic tac toe
 - Files organizer
+- Monoalphabetic ciphers encryption, decryption
