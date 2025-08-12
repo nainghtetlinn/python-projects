@@ -6,7 +6,7 @@ YELLOW = '\033[33m'
 LIGHT_GRAY = '\033[37m'
 RESET = '\033[0m'
 
-class Printabel_word:
+class Printable_word:
     def __init__(self, word, correct) :
         self.result = ""
         for i, char in enumerate(word):
@@ -37,7 +37,7 @@ def main():
             else:
                 print('Invalid input. Please enter a 5-letter word.')
     
-        word = Printabel_word(guess_word.upper(), correct_word.upper())
+        word = Printable_word(guess_word.upper(), correct_word.upper())
         attempts.append(word)
 
         print()
