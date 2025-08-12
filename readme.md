@@ -7,3 +7,4 @@
 - Tic tac toe
 - Files organizer
 - Monoalphabetic ciphers encryption, decryption
+- Polyalphabetic ciphers encryption, decryption
